@@ -1,0 +1,20 @@
+{
+  "name": "angular-twilio",
+  "version": "0.0.0",
+  "description": "Angular.js Use of Twilio API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tebriel/angular-twilio.git"
+  },
+  "author": "Chris Moultrie",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "30fcebb5d6ca44ebd84ec0db769c44ffe1ef52b8"
+}
